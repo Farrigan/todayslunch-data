@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Bistrot",
+    "address": "Diagonalen 8",
+    "tel": "031-223323",
+    "lunchhours": "11:00-14:00",
+    "lunchmenu": [
+      {
+        "name": "Pocherad torsk med ägg & persiljesås toppas med sallad på rädisor, ärtor samt pressad potatis.",
+        "price": 90,
+        "dishtype": "Fisk"
+      },
+      {
+        "name": "Stekt fläsk med raggmunk och rårörda lingon alt. löksås med kokt potatis samt hackad persilja.",
+        "price": 90,
+        "dishtype": "Kött"
+      },
+      {
+        "name": "Veckans husman: Klassisk sjömansbiff på nötkött samt saltgurka",
+        "price": 95,
+        "dishtype": "Kött"
+      },
+      {
+        "name": "Veckans pasta: Lasagne al forno serveras med tomat & löksallad toppas med rucola samt grana padano",
+        "price": 90,
+        "dishtype": "Pasta"
+      },
+      {
+        "name": "Veckans sallad: Sallad nicoise, Tonfisk, ägg, rödlök, tomat, sparris och kapris.)",
+        "price": 90,
+        "dishtype": "Övrigt"
+      },
+      {
+        "name": "Veckans vegetariska; Vegetarisk lasange serveras med tomat & löksallad, toppas med rucola samt grana padano",
+        "price": 90,
+        "dishtype": "Vegetariskt"
+      },
+      {
+        "name": "Pocherad torsk med ägg & persiljesås toppas med sallad på rädisor, ärtor samt pressad potatis.",
+        "price": 90,
+        "dishtype": "Fisk"
+      },
+      {
+        "name": "Stekt fläsk med raggmunk och rårörda lingon alt. löksås med kokt potatis samt hackad persilja.",
+        "price": 90,
+        "dishtype": "Kött"
+      },
+      {
+        "name": "Veckans husman: Klassisk sjömansbiff på nötkött samt saltgurka",
+        "price": 95,
+        "dishtype": "Kött"
+      },
+      {
+        "name": "Veckans pasta: Lasagne al forno serveras med tomat & löksallad toppas med rucola samt grana padano",
+        "price": 90,
+        "dishtype": "Pasta"
+      },
+      {
+        "name": "Veckans sallad: Sallad nicoise, Tonfisk, ägg, rödlök, tomat, sparris och kapris.)",
+        "price": 90,
+        "dishtype": "Övrigt"
+      },
+      {
+        "name": "Veckans vegetariska; Vegetarisk lasange serveras med tomat & löksallad, toppas med rucola samt grana padano",
+        "price": 90,
+        "dishtype": "Vegetariskt"
+      }
+    ]
+  },
+  {
+    "name": "Mimolett",
+    "address": "Lindholmsallén 61",
+    "tel": "031-224466",
+    "lunchhours": "11:00-14:00",
+    "lunchmenu": [
+      {
+        "name": "Kycklinggratäng med serranoskinka, mozzarella, pesto, tomatsås och potatisgratäng",
+        "price": 99,
+        "dishtype": "Kyckling"
+      },
+      {
+        "name": "Pastarätter Pasta med tigerräkor tomatsås, basilika, vitlök och olivolja Pasta Diavola med köttfärssås, grädde, piri-piri Pasta Carbonara med rostad bacon,",
+        "price": 99,
+        "dishtype": "Pasta"
+      },
+      {
+        "name": "Pastarätter Pasta med tigerräkor tomatsås, basilika, vitlök och olivolja Pasta Diavola med köttfärssås, grädde, piri-piri Pasta Carbonara med rostad bacon,",
+        "price": 99,
+        "dishtype": "Pasta"
+      },
+      {
+        "name": "Pastarätter Pasta med tigerräkor tomatsås, basilika, vitlök och olivolja Pasta Diavola med köttfärssås, grädde, piri-piri Pasta Carbonara med rostad bacon,",
+        "price": 99,
+        "dishtype": "Pasta"
+      },
+      {
+        "name": "Smörstekt viltfärsbiff med potatismos, lingon och gräddsås",
+        "price": 99,
+        "dishtype": "Kött"
+      }
+    ]
+  }
+]
